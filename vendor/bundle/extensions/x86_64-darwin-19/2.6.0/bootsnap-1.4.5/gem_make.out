@@ -1,0 +1,15 @@
+current directory: /Users/edwardacosta/OneDrive/Documents/HTML_Classes/Udemy/code/rails_projects/test_app/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+/Users/edwardacosta/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/edwardacosta/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20191222-1392-18xovu0.rb extconf.rb
+creating Makefile
+
+current directory: /Users/edwardacosta/OneDrive/Documents/HTML_Classes/Udemy/code/rails_projects/test_app/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/edwardacosta/OneDrive/Documents/HTML_Classes/Udemy/code/rails_projects/test_app/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/edwardacosta/OneDrive/Documents/HTML_Classes/Udemy/code/rails_projects/test_app/vendor/bundle/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20191222-1392-17tfda0/bootsnap

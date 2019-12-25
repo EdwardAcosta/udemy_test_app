@@ -1,0 +1,15 @@
+current directory: /Users/edwardacosta/OneDrive/Documents/HTML_Classes/Udemy/code/rails_projects/test_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+/Users/edwardacosta/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/edwardacosta/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20191222-1392-1nr4749.rb extconf.rb
+creating Makefile
+
+current directory: /Users/edwardacosta/OneDrive/Documents/HTML_Classes/Udemy/code/rails_projects/test_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/edwardacosta/OneDrive/Documents/HTML_Classes/Udemy/code/rails_projects/test_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/edwardacosta/OneDrive/Documents/HTML_Classes/Udemy/code/rails_projects/test_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20191222-1392-h2sp86/skiptrace/internal
